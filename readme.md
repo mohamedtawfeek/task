@@ -22,7 +22,7 @@ node server.js
 
 ### Tests
 
-Loign Api link Method POST
+Login Api link Method POST
 
 ```
 http://localhost:5000/auth/login
@@ -43,7 +43,7 @@ http://localhost:5000/auth/reset
 Post a message Method POST
 
 ```
-http://localhost:5000/api/messaget
+http://localhost:5000/api/messages
 ```
 
 Get the current messages with method GET
